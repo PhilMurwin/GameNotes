@@ -36,4 +36,13 @@ Notes from: https://gamefaqs.gamespot.com/switch/272749-dragon-quest-ii-luminari
 2. Open Chest south of you for Medicine
 3. Take Eastern path south, then west to chest of Gold
 4. Head back to water
-5. 
+5. Eastern Path in darkness to stairs
+6. Take northern path
+7. Follow East, west, and southwest to Treasure
+8. Head North to wellspring of the hero
+9. Talk to the guy
+10. Head back to the water, then west and south to the exit
+
+# Prince of Cannock
+1. Head southwest, ignore bridge
+...
