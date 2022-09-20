@@ -1,5 +1,6 @@
 # Dragon Quest 2
 -------------------
+Platform: Nintendo Switch/Mobile
 Notes from: https://gamefaqs.gamespot.com/switch/272749-dragon-quest-ii-luminaries-of-the-legendary-line/faqs/79311
 
 ## Midenhall 1
@@ -155,4 +156,111 @@ Notes from: https://gamefaqs.gamespot.com/switch/272749-dragon-quest-ii-luminari
 > * Shld: N/A
 
 # Grind 3
-1. 
+1. Grind around the bridge south of Moonahan
+2. Level Princess to 5 and earn 1302G+
+3. Return to Moonahan
+4. Sell Heros Chain Sickle
+5. Buy Steel Broadsword for Hero
+6. Buy a Chimaera Wing (if needed)
+7. Stay at an inn to rest up
+
+# Moonbrooke (Optional)
+1. Cross the bridge south of Moonahan
+2. Head west to Moonbrooke
+3. Go north and talk to the flame
+4. Go outside perimeter in NW part of Castle
+5. Head south hugging castle wall
+6. At SW corner, head northeast to courtyard
+7. Go downstairs
+8. Talk to fallen guard
+9. Leave Moonbrooke
+10. Walk or use Chimaera Wing to return to Moonahan
+
+# Pillar of Winds
+### In Moonahan
+1. Get Prince to Level 10
+2. Rest at the Inn
+3. Have 1+ Chimaera Wings
+4. Top up Medicine/Antidote (3+)
+5. An Iron Lance for the Prince would be handy...
+6. Head Northwest of Moonahan through forest
+7. Ignore first bridge and continue North
+8. Cross bridge and head south along coast
+9. At river, cross first bridge and go South
+10. Cross three more bridges and go West to Pillar of Winds
+## Pillar of Winds
+### Floor 1F
+1. Go south past stairs until you see treasure
+2. Open treasure
+3. Return to stairs and head east and north
+4. Take stairs
+### Floor 2F
+1. Talk to Soldier
+2. Head west
+3. Go upstairs
+### Floor 3F
+1. Head south to treasure chest (321G)
+2. Head up the stairs to the south
+### Floor 4F
+1. 2 steps south
+2. Head East
+3. Go up first stairs you see
+### Floor 5F
+1. Head west and north
+2. Head down stairs
+### Floor 4F
+1. Head down stairs
+### Floor 3F
+1. Head down stairs
+### Floor 2F
+1. Get Windbraker
+2. Go back to southern part of Floor 4F
+### Floor 4F
+1. Head east and up stairs
+### Floor 5F
+1. Go East 1 square
+2. Head North to stairs
+### Floor 6F
+1. Head to northwestern Stairs
+### Floor 7F
+1. Take stairs
+### Floor 8F
+1. Open Chest for Ring
+2. Save ring for end game (breaks after a few uses)
+3. Grind if desired
+4. Go back down steps
+### Floor 7F
+1. Go North one step to fall off tower
+2. You are done with Pillar of winds
+
+# Dragons' Horn
+1. Return to Moonahan (walk, zoom, wing)
+2. Use Inn to Rest up
+3. Restock Meds/Antidotes
+4. Save (If you need Gold go grind in hills south of Moonahan)
+5. Sell Prince Chain Sickle
+6. Buy Iron Lance for Prince
+7. Buy Full Plate Armor for Hero
+8. Buy Steel Shield for Hero
+9. Sell Hero Chain Mail
+10. Sell Hero Leather Shield
+
+> ## Party Recommendations
+> ### Hero - Lvl 15
+> #### Equipment
+> * Wpn: Steel Broadsword
+> * Amr: Full Plate Armor
+> * Shld: Steel Shield
+> ### Prince - Lvl 13
+> #### Equipment
+> * Wpn: Iron Lance
+> * Amr: Chain Mail
+> * Shld: Leather Shield
+> ### Princess - Lvl 9
+> #### Equipment
+> * Wpn: Divine Dagger
+> * Amr: Plain Clothes
+> * Shld: N/A
+> * Accs: Windbraker
+
+...TO BE CONTINUED
